@@ -20,7 +20,7 @@
     <body>
             <header class="v-header container">
                 <div class="fullscreen-video-wrap">
-                    <video src="{{asset('vid/understang.mp4') }}" autoplay="true" loop="true"></video>
+                    <video src="{{asset('vid/patreon.mp4') }}" autoplay="true" loop="true"></video>
                 </div>
 
                 <div class="header-overlay"></div>
